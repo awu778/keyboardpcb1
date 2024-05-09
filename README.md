@@ -11,3 +11,4 @@ Technical information:
 - Protection hardware: USB data line and power rail ESD suppressing, USB power overvoltage protection, Overcurrent protection
 ![alt text](https://github.com/awu778/keyboardpcb1/blob/main/images/pcb1.PNG)
 ![alt text](https://github.com/awu778/keyboardpcb1/blob/main/images/pcb1back.PNG)
+![alt text](https://github.com/awu778/keyboardpcb1/blob/main/images/8JZ7Opv.jpeg)
